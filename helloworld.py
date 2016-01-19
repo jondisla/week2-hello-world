@@ -5,7 +5,7 @@
 print('Hello user!')
 print('Type the number 1, 2 or 3 to choose your spoken language.') 
 
-# 2. asks the user to choose from 1 of 3 spoken languages (pick your favorite languages!)
+# 2. asks the user to choose from 1 of 3 spoken languages
 
 print('1. Spanish')
 print('2. English')
@@ -23,3 +23,4 @@ elif lang == 2:
 
 elif lang == 3:
     print('Salut monde!')
+    
